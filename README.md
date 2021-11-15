@@ -3172,17 +3172,6 @@ private int ConvertTo32BitInt(int value)
 
 # Other Clean Code Resources
 
-## Other Clean Code Lists
-
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-- [clean-code-php](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP
-- [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) - Clean Code concepts adapted for Ruby
-- [clean-code-python](https://github.com/zedr/clean-code-python) - Clean Code concepts adapted for Python
-- [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
-- [clean-go-article](https://github.com/Pungyeon/clean-go-article) - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go)
-- [clean-abap](https://github.com/SAP/styleguides) - Clean Code concepts adapted for ABAP
-- [programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of Programming Principles & Patterns
-
 ## Style Guides
 - [Google Styleguides](https://github.com/google/styleguide) - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
 
